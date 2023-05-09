@@ -1,0 +1,15 @@
+*/*{
+    border: 1px solid red;
+}*/
+
+table{
+    color: rgb(240, 9, 9);
+}
+
+th{
+    background-color: rgb(17, 17, 17);
+}
+
+td{
+    background-color: rgb(230, 164, 164);
+}
